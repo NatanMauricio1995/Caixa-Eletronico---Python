@@ -73,7 +73,7 @@ except ValueError:
 ========================================
      CAIXA ELETRÔNICO     
 ========================================
-Usuario: Natan Maurício
+Usuario: Natan Mauricio
 ----------------------------------------
 
 MENU DE OPCOES:
@@ -106,7 +106,7 @@ Este projeto me permitiu praticar:
 
 ## Autor
 
-**Natan Maurício Santos**
+**Natan Mauricio Santos**
 - Tecnólogo em Tecnologia da Informação - FAETERJ
 - Petrópolis - RJ
 - natanmauriciosantos@hotmail.com
